@@ -1,0 +1,45 @@
+{
+  "project": [
+    {
+      "name": "7-11 Baytown"
+    },
+    {
+      "name": "7-11 Richmond"
+    },
+    {
+      "name": "7-11 Richmond"
+    }
+  ],
+  "proposal": [
+    {
+      "companyName": "Florida W&C",
+      "contactName": "Dave Hartman",
+      "address": "735 Palm Beach Dr",
+      "city": "Gainesville",
+      "state": "FL",
+      "zip": "33767",
+      "emailAddress": "daveh@gmail.com",
+      "phoneNumber": "727-446-4913"
+    },
+    {
+      "companyName": "Gonado Painting",
+      "contactName": "Jack Smith",
+      "address": "735 Palm Beach Dr",
+      "city": "Gainesville",
+      "state": "FL",
+      "zip": "33767",
+      "emailAddress": "jacks@gmail.com",
+      "phoneNumber": "727-446-4913"
+    },
+    {
+      "companyName": "EA Demo",
+      "contactName": "Terry Winters",
+      "address": "735 Palm Beach Dr",
+      "city": "Gainesville",
+      "state": "FL",
+      "zip": "33767",
+      "emailAddress": "terryw@gmail.com",
+      "phoneNumber": "727-446-4913"
+    }
+  ]
+}
